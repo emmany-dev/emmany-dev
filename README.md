@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on a basci JS project
-- 📫 How to reach me via emmany4567@gmail.com
+- 📫 You canreach me via emmany4567@gmail.com
 
 <!---
 emmany-dev/emmany-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
